@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation for the confinement of popish recusants within five miles of their respective dwellings.</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B19856</idno><idno type="EEBO-CITATION">99890087_191334</idno>
+  <idno type="VID">191334</idno>
+  <idno type="EEBO-PROQUEST">2264190735</idno>
+  
+            <idno type="OCLC"> 15578527</idno>
+            <idno type="STC">Wing C3461</idno>
+            <idno type="STC">Interim Tract Supplement Guide 21.h.2[144]</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1851.c.9[146]</idno>
+            <idno type="STC">ESTC R35899</idno>
+            <idno type="PROQUEST">ocm99890087</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99890087e"/>
+            <note>(EEBO-TCP ; phase 2, no. B19856)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 191334)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C9:1[144]; C18:2[146])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation for the confinement of popish recusants within five miles of their respective dwellings.</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>2 sheets (versos blank)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Bill, Christopher Barker, Thomas Newcomb, and Henry Hills, printers to the Kings most excellent Majesty,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At end of text: Given at our court at Whitehall, the tenth day of November 1678. In the thirtieth year of our reign.</note>
+                  <note>Steele notation: Arms 87  Dangerous fully 2) by is.</note>
+                  <note>Filmed copy at UMI Tract Supplement reel C18 consists of one contiguous sheet.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Popish Plot, 1678 --  Early works to 1800.</term>
+               <term type="topical_term">Anti-Catholicism --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:191334:1"/>
+            <head>
+               <figure>
+                  <figDesc>arms of Charles II</figDesc>
+                  <head>C R</head>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure> By the King. A PROCLAMATION For the Confinement of Popish Recusants within Five Miles of their respective Dwellings.</head>
+            <opener>
+               <signed>CHARLES R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He Kings most Excellent Majesty having been Informed of the Dangerous and Wicked Plots and Designs of Popish Recusants, against His Majesties Royal Person and Government, and tending to the Subversion of the True Protestant Religion Established by Law within this His Realm, Doth (with the Advice of His Privy Council) by this His Royal Proclamation, strictly Charge and Command all persons being above the Age of Sixteen years, born within any of His Majesties Realms or Dominions, or made Denizens, who being Popish Recusants, have been, or shall be thereof Law<g ref="char:EOLhyphen"/>fully Convicted, That they and every of them do (according to the Statutes in that behalf made) repair to their respective places of abode; and if they have no places of abode, then to the places where the Father or Mother of such respective persons is or shall be then dwelling, and do not at any time thereafter remove or pass above Five miles from thence, upon Pain that the Offenders shall lose and forfeit to the Kings Majesty, all their Goods and Chattels, and also all their Lands and Tenements, Rents, Annuities, and Hereditaments, during their respective natural lives. And because many Popish Recusants, who are notoriously known, or reputed to be such, have notwithstanding, by the connivance or negligence of those by whom they ought to have been Prosecuted, escaped Conviction, and yet may be (by their concourse and contrivances) as dangerous to His Majesty, His Government, and the True Protestant Religion, as those who are actually Convicted; His Majesty doth hereby further straitly Charge and Command all His Iudges, Iustices, Magistrates, Ministers and Officers, That if any Popish Recusant, or person reputed so to be, though not Convicted, being above the Age of Eighteen years, shall not repair to his or her place of abode, and there continue with<g ref="char:EOLhyphen"/>out removing or passing above Five miles from thence, That then such Popish Recusants, or persons reputed to be so respectively, shall be Prosecuted and brought to Punishment, as well by tendring unto them the Oaths of Allegiance and Supremacy, and taking advantage of their refusal thereof, as by putting in Execution the severest Laws which are now in force against them. And His Majesty doth hereby further signifie to all His Loving Subjects, That upon Certificate made to the Lord Chancellor of <hi>England,</hi> by any Iustice of the Peace, That there are any Popish Recusants, or persons reputed to be such, who do not give their Obedi<g ref="char:EOLhyphen"/>ence to this His Majesties Royal Proclamation, together with the Names of such Offenders, His Majesty hath Commanded the said Lord Chancellor to Issue forth respective Commissions under the Great Seal of <hi>England,</hi> to the Iustices of the Peace (of the several Counties, Cities and Liberties from which such Certificates shall come) to Require and Authorize them, or any Two of them respectively, to tender and administer the said Oaths to the said Offenders ac<g ref="char:EOLhyphen"/>cordingly. Provided, That nothing herein contained, shall be Construed to Command any Popish Recusant Convicted, or any other Popish Recusant, or person reputed to be such, to come within Ten miles of the Cities of <hi>London</hi> or <hi>Westminster,</hi> or to require any of the persons afore<g ref="char:EOLhyphen"/>said to repair to their places of abode, or other the places aforesaid, who are Restrained by Im<g ref="char:EOLhyphen"/>prisonment, or Disabled by such Sickness, as they shall not be able to Travel without immi<g ref="char:EOLhyphen"/>nent danger of life, during the respective times of such Imprisonment, or Disability; or to Confine any such persons within the said space of Five miles from the places aforesaid, who shall be (according to the Laws and Statutes of this Realm) Allowed, or Licenced to Travel, or Remove from thence; So that their Travelling, Attending, and Returning by pretence of such Allowance or Licence, be no longer, or otherwise then by the said Statutes is Warranted.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at Our Court at <hi>Whitehall,</hi>
+                  </hi>
+                  <date>
+                     <hi>the Tenth day of <hi>November</hi> 1678. In the Thirtieth year of Our Reign.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <closer>God save the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>John Bill, Christopher Barker, Thomas Newcomb,</hi> and <hi>Henry Hills,</hi> Printers to the Kings most Excellent Majesty. 1678.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
